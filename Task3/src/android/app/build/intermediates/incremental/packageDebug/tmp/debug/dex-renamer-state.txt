@@ -1,0 +1,4 @@
+#Tue Mar 26 00:41:58 CET 2019
+base.0=C\:\\Users\\Karnemelk\\Desktop\\zad3\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
